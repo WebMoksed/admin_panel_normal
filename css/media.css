@@ -1,0 +1,78 @@
+@media(min-width:768px) and (max-width:991px){
+    .dashboard{
+        padding: 50px 20px;   
+    }
+    .dashboard h1{
+        font-size: 35px;
+        color: #1b8dff;
+        font-family: sans-serif;
+    }
+
+    /*-------------main css start now-----------------*/
+    .details h3{
+        font-size: 20px;
+    }
+    .details h4{
+        font-size: 16px;
+        padding: 10px 0px;
+    }
+    .details p{ 
+        padding: 15px 0px 10px 0px;
+        text-align: justify;
+    }
+    .details .mymodal h3{
+        padding: 20px 0px;
+    }
+    .details .mymodal h4{
+        padding: 10px 0px;
+    }
+    .details .mymodal p{
+        padding: 15px 0px 10px 0px;
+    }
+    .info{
+        padding-top: 30px;
+    }
+    .info h2{
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+
+
+
+
+
+    
+    
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:320px) and (max-width:767px){
+  
+    
+    
+    
+    
+    
+    
+}

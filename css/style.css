@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ol,ul{
+    list-style: none;
+}
+a, a:hover, a:focus {
+  text-decoration: none;
+  outline: 0;
+  border: 0;
+}
+img{
+    border: 0px;
+}
+h1,h2,h3,h4,h5,h6,ol,ul,p,address{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.bg{
+    background: #00ffe2;
+}
+/*-------------Default part Ends-----------------*/
+@font-face{
+    font-family:montserrat_light;
+    src:url(../fonts/montserrat/Montserrat-Light.otf);
+} 
+@font-face{
+    font-family:roboto_regular;
+    src:url(../fonts/roboto/RobotoSlab-Regular.ttf);
+} 
+@font-face{
+    font-family:gotham_regular;
+    src:url(../fonts/gotham/Gotham-Medium.ttf);
+} 
+@font-face{
+    font-family:monserrat_regular;
+    src:url(../fonts/montserrat/MontserratAlternates-Regular.otf);
+} 
+@font-face{
+    font-family:proxinova_regular;
+    src:url(../fonts/ProximaNova/ProximaNovaRegular.otf);
+}
+@font-face{
+    font-family:raleway_regular;
+    src:url(../fonts/raleway/Raleway-Regular.ttf);
+}
+/*-------------main css start now-----------------*/
+.tpcolor{
+    background: #5f5b5b;
+}
+.tpcolor p{
+    padding: 20px;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.dwncolor{
+    background: #292929;
+}
+.dwncolor p{
+    padding: 15px;
+    color: #fff;
+    font-size: 12px;
+}
+.dashboard{
+    padding: 50px 20px;   
+}
+.dashboard h1{
+    font-size: 35px;
+    color: #1b8dff;
+    font-family: sans-serif;
+}
+
+/*-------------main css start now-----------------*/
+.details h3{
+    color: red;
+    font-family: roboto_regular;
+}
+.details h4{
+    padding: 10px 0px;
+    color: #2535b1;
+    font-family: sans-serif;
+}
+.details p{ 
+    padding: 15px 0px 10px 0px;
+    text-align: justify;
+}
+.details .mymodal h3{
+    color: Green;
+    font-family: roboto_regular;
+    padding: 20px 0px;
+}
+.details .mymodal h4{
+    padding: 10px 0px;
+    color: #2535b1;
+    font-family: sans-serif;
+}
+.details .mymodal p{
+    padding: 15px 0px 10px 0px;
+    text-align: justify;
+}
+.info{
+    padding-top: 60px;
+}
+.info h2{
+    font-size: 35px;
+    padding-bottom: 50px;
+    color: #1b8dff;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
